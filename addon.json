@@ -1,0 +1,18 @@
+{
+    "name": "Necro Notice",
+    "description": "Shows a notice above comment input box if the last reply is X days old.",
+    "version": "0.0.1",
+    "hasLocale": false,
+    "license": "GNU GPL2",
+    "key": "necronotice",
+    "type": "addon",
+    "authors": [
+        {
+            "name": "PHP Backend",
+            "homepage": "https://phpbackend.com"
+        }
+    ],
+    "require": {
+        "vanilla": ">=2.5"
+    }
+}
